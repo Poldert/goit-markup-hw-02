@@ -1,4 +1,4 @@
-ul, ol{
+.link{
     list-style-type: none;
 }
 
@@ -123,7 +123,7 @@ p{
     color: var(--SLATE, #434455);
 }
 
-.futer-logo {
+.futer-logo{
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -145,18 +145,18 @@ p{
     color: var(--CLOUD, #F4F4FD);
 }
 
-.page-futer{
-    background-color: var(--NAVY-BLUE, #2E2F42);;
-}
-
-.futer-text-info{
-    color: var(--CLOUD, #F4F4FD);
-}
-
 .our-team-box{
-    background-color: var(--CLOUD, #F4F4FD);;
+    background-color: var(--CLOUD, #F4F4FD);
 }
 
 .page-portfolio{
     background-color: #FFFFFF;
+}
+
+.page-futer{
+    background-color: var(--NAVY-BLUE, #2E2F42);
+}
+
+.futer-text-info{
+    color: var(--CLOUD, #F4F4FD);
 }
