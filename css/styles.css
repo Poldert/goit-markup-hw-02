@@ -20,7 +20,9 @@ button{
 
 body{
     font-family: 'Roboto', sans-serif;
+    color: color: var(--SLATE, #434455);;
     background-color: #FFFFFF;
+    
 }
 
 .logo{
@@ -143,4 +145,8 @@ p{
 
 .our-team-box{
     background-color: var(--CLOUD, #F4F4FD);;
+}
+
+.page-portfolio{
+    background-color: #FFFFFF;
 }
