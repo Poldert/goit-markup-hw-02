@@ -18,6 +18,11 @@ button{
     letter-spacing: 0.04em;
 }
 
+button:hover,
+button:focus {
+    background-color: var(--OCEAN, #404BBF);
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     color: var(--SLATE, #434455);
