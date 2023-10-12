@@ -150,7 +150,11 @@ p{
 }
 
 .our-team-box{
-    background-color: var(--WHITE, #FFFFFF
+    background-color: var(--CLOUD, #F4F4FD);
+}
+
+.menu-team{
+    var(--CLOUD, #F4F4FD);
 }
 
 .page-portfolio{
