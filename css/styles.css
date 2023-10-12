@@ -20,7 +20,7 @@ button{
 
 body{
     font-family: 'Roboto', sans-serif;
-    color: color: var(--SLATE, #434455);;
+    color: var(--SLATE, #434455);
     background-color: #FFFFFF;
     
 }
@@ -64,6 +64,7 @@ body{
 
 .address-link{
     font-size: 16px;
+    font-style: normal;
     line-height: 1.5;
         /* 150% */
     letter-spacing: 0.02em;
@@ -141,6 +142,10 @@ p{
 
 .page-futer{
     background-color: var(--NAVY-BLUE, #2E2F42);;
+}
+
+.futer-text-info{
+    color: var(--CLOUD, #F4F4FD);
 }
 
 .our-team-box{
