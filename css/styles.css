@@ -154,7 +154,7 @@ p{
 }
 
 .menu-members{
-    var(--WHITE, #FFFFFF);
+   background-color: var(--WHITE, #FFFFFF);
 }
 
 .page-portfolio{
